@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AndreNazar/learnnumbersstatic/css/main.531bdfe1.chunk.css",
+    "main.js": "/AndreNazar/learnnumbersstatic/js/main.adc0b1bc.chunk.js",
+    "main.js.map": "/AndreNazar/learnnumbersstatic/js/main.adc0b1bc.chunk.js.map",
+    "runtime-main.js": "/AndreNazar/learnnumbersstatic/js/runtime-main.07bb0abc.js",
+    "runtime-main.js.map": "/AndreNazar/learnnumbersstatic/js/runtime-main.07bb0abc.js.map",
+    "static/js/2.201441e7.chunk.js": "/AndreNazar/learnnumbersstatic/js/2.201441e7.chunk.js",
+    "static/js/2.201441e7.chunk.js.map": "/AndreNazar/learnnumbersstatic/js/2.201441e7.chunk.js.map",
+    "static/js/3.dd2ebb12.chunk.js": "/AndreNazar/learnnumbersstatic/js/3.dd2ebb12.chunk.js",
+    "static/js/3.dd2ebb12.chunk.js.map": "/AndreNazar/learnnumbersstatic/js/3.dd2ebb12.chunk.js.map",
+    "index.html": "/AndreNazar/learnnumbersindex.html",
+    "static/css/main.531bdfe1.chunk.css.map": "/AndreNazar/learnnumbersstatic/css/main.531bdfe1.chunk.css.map",
+    "static/js/2.201441e7.chunk.js.LICENSE.txt": "/AndreNazar/learnnumbersstatic/js/2.201441e7.chunk.js.LICENSE.txt",
+    "static/media/warning1.png": "/AndreNazar/learnnumbersstatic/media/warning1.fdebd70a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07bb0abc.js",
+    "static/js/2.201441e7.chunk.js",
+    "static/css/main.531bdfe1.chunk.css",
+    "static/js/main.adc0b1bc.chunk.js"
+  ]
+}
